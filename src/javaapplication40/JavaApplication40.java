@@ -9,6 +9,8 @@ package javaapplication40;
  *
  * @author franol
  */
+
+int x;
 public class JavaApplication40 {
 
     /**
